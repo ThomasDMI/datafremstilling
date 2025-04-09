@@ -1,0 +1,679 @@
+{
+  "type": "FeatureCollection",
+  "name": "Januar2025temperaturanomali_1",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4285.0,
+        "StatID": "4285-Angissoq",
+        "stationown": "DMI",
+        "wgs_lat": 59.99111,
+        "wgs_long": -45.14611,
+        "M\u00e5nedsmiddel": "-2,5 \u00b0C",
+        "Afvigelse": 0.3,
+        "Label": "Angissoq\\-2,5 \u00b0C (+0,3 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 3.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.14611111,
+          59.99111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4330.0,
+        "StatID": "4330-Daneborg",
+        "stationown": "DMI",
+        "wgs_lat": 74.3075,
+        "wgs_long": -20.21694,
+        "M\u00e5nedsmiddel": "-19,8 \u00b0C",
+        "Afvigelse": -1.6,
+        "Label": "Daneborg\\-19,8 \u00b0C (-1,6 \u00b0C)",
+        "Retning": "Minus",
+        "placering": 5.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.21694444,
+          74.3075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4320.0,
+        "StatID": "4320/34320-Danmarkshavn",
+        "stationown": "DMI",
+        "wgs_lat": 76.76944,
+        "wgs_long": -18.66806,
+        "M\u00e5nedsmiddel": "-22,7 \u00b0C",
+        "Afvigelse": -1.3,
+        "Label": "Danmarkshavn\\-22,7 \u00b0C (-1,3 \u00b0C)",
+        "Retning": "Minus",
+        "placering": 5.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.66805556,
+          76.76944444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4373.0,
+        "StatID": "4373-Ikermit",
+        "stationown": "DMI",
+        "wgs_lat": 64.78194,
+        "wgs_long": -40.30167,
+        "M\u00e5nedsmiddel": "-6,7 \u00b0C",
+        "Afvigelse": -0.4,
+        "Label": "Ikermit\\-6,7 \u00b0C (-0,4 \u00b0C)",
+        "Retning": "Minus",
+        "placering": 5.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.30166667,
+          64.78194444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4231.0,
+        "StatID": "4231/34231-Kangerlussuaq",
+        "stationown": "MITT/GRL lufthavne",
+        "wgs_lat": 67.01333,
+        "wgs_long": -50.71722,
+        "M\u00e5nedsmiddel": "-15,3 \u00b0C",
+        "Afvigelse": 3.2,
+        "Label": "Kangerlussuaq\\-15,3 \u00b0C (+3,2 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 5.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.71722222,
+          67.01333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4301.0,
+        "StatID": "4301-Kap Morris Jesup*",
+        "stationown": "DMI",
+        "wgs_lat": 83.65611,
+        "wgs_long": -33.37389,
+        "M\u00e5nedsmiddel": "-30,5 \u00b0C",
+        "Afvigelse": -2.1,
+        "Label": "Kap Morris Jesup*\\-30,5 \u00b0C (-2,1 \u00b0C)",
+        "Retning": "Minus",
+        "placering": 3.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.37388889,
+          83.65611111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4208.0,
+        "StatID": "4208-Kitsissorsuit",
+        "stationown": "DMI",
+        "wgs_lat": 74.06056,
+        "wgs_long": -57.72306,
+        "M\u00e5nedsmiddel": "-16,7 \u00b0C",
+        "Afvigelse": 2.8,
+        "Label": "Kitsissorsuit\\-16,7 \u00b0C (+2,8 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 3.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.72305556,
+          74.06055556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4203.0,
+        "StatID": "4203-Kitsissut*",
+        "stationown": "DMI",
+        "wgs_lat": 76.73333,
+        "wgs_long": -73.12083,
+        "M\u00e5nedsmiddel": "-17,5 \u00b0C",
+        "Afvigelse": -0.9,
+        "Label": "Kitsissut*\\-17,5 \u00b0C (-0,9 \u00b0C)",
+        "Retning": "Minus",
+        "placering": 1.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.12083333,
+          76.73333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4221.0,
+        "StatID": "4221-Mittarfik Ilulissat",
+        "stationown": "MITT/GRL lufthavne",
+        "wgs_lat": 69.24028,
+        "wgs_long": -51.06611,
+        "M\u00e5nedsmiddel": "-8,5 \u00b0C",
+        "Afvigelse": 4.1,
+        "Label": "Mitt. Ilulissat\\-8,5 \u00b0C (+4,1 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 0.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.06611111,
+          69.24027778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4361.0,
+        "StatID": "4361-Mittarfik Kulusuk*",
+        "stationown": "MITT/GRL lufthavne",
+        "wgs_lat": 65.57361,
+        "wgs_long": -37.12361,
+        "M\u00e5nedsmiddel": "-7,5 \u00b0C",
+        "Afvigelse": -2.5,
+        "Label": "Mitt. Kulusuk*\\-7,5 \u00b0C (-2,5 \u00b0C)",
+        "Retning": "Minus",
+        "placering": 5.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.12361111,
+          65.57361111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4241.0,
+        "StatID": "4241-Mittarfik Maniitsoq*",
+        "stationown": "MITT/GRL lufthavne",
+        "wgs_lat": 65.4125,
+        "wgs_long": -52.93944,
+        "M\u00e5nedsmiddel": "-6,6 \u00b0C",
+        "Afvigelse": 0.7,
+        "Label": "Mitt. Maniitsoq*\\-6,6 \u00b0C (+0,7 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 3.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.93944444,
+          65.4125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4270.0,
+        "StatID": "4270/34270-Mittarfik Narsarsuaq",
+        "stationown": "MITT/GRL lufthavne",
+        "wgs_lat": 61.16083,
+        "wgs_long": -45.42556,
+        "M\u00e5nedsmiddel": "-8,4 \u00b0C",
+        "Afvigelse": -2.3,
+        "Label": "Mitt. Narsarsuaq\\-8,4 \u00b0C (-2,3 \u00b0C)",
+        "Retning": "Minus",
+        "placering": 1.0,
+        "afstand": 20.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.42555556,
+          61.16083333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4341.0,
+        "StatID": "4341-Mittarfik Nerlerit Inaat*",
+        "stationown": "MITT/GRL lufthavne",
+        "wgs_lat": 70.74306,
+        "wgs_long": -22.65056,
+        "M\u00e5nedsmiddel": "-17,9 \u00b0C",
+        "Afvigelse": -3.8,
+        "Label": "Mitt. Nerlerit Inaat*\\-17,9 \u00b0C (-3,8 \u00b0C)",
+        "Retning": "Minus",
+        "placering": 1.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.65055556,
+          70.74305556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4260.0,
+        "StatID": "4260-Mittarfik Paamiut",
+        "stationown": "MITT/GRL lufthavne",
+        "wgs_lat": 62.01472,
+        "wgs_long": -49.67083,
+        "M\u00e5nedsmiddel": "-4,8 \u00b0C",
+        "Afvigelse": 1.6,
+        "Label": "Mitt. Paamiut\\-4,8 \u00b0C (+1,6 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 3.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.67083333,
+          62.01472222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4205.0,
+        "StatID": "4205-Mittarfik Qaanaaq*",
+        "stationown": "MITT/GRL lufthavne",
+        "wgs_lat": 77.48528,
+        "wgs_long": -69.37444,
+        "M\u00e5nedsmiddel": "-21,6 \u00b0C",
+        "Afvigelse": 0.1,
+        "Label": "Mitt. Qaanaaq*\\-21,6 \u00b0C (+0,1 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 8.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.37444444,
+          77.48527778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4213.0,
+        "StatID": "4213-Mittarfik Qaarsut*",
+        "stationown": "MITT/GRL lufthavne",
+        "wgs_lat": 70.73417,
+        "wgs_long": -52.69611,
+        "M\u00e5nedsmiddel": "-8,6 \u00b0C",
+        "Afvigelse": 3.0,
+        "Label": "Mitt. Qaarsut*\\-8,6 \u00b0C (+3,0 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 5.0,
+        "afstand": 10.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.69611111,
+          70.73416667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4234.0,
+        "StatID": "4234/34234-Mittarfik Sisimiut",
+        "stationown": "MITT/GRL lufthavne",
+        "wgs_lat": 66.95139,
+        "wgs_long": -53.72944,
+        "M\u00e5nedsmiddel": "-8,5 \u00b0C",
+        "Afvigelse": 3.0,
+        "Label": "Mitt. Sisimiut\\-8,5 \u00b0C (+3,0 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 3.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.72944444,
+          66.95138889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4211.0,
+        "StatID": "4211-Mittarfik Upernavik",
+        "stationown": "MITT/GRL lufthavne",
+        "wgs_lat": 72.79028,
+        "wgs_long": -56.13056,
+        "M\u00e5nedsmiddel": "-13,0 \u00b0C",
+        "Afvigelse": 3.7,
+        "Label": "Mitt. Upernavik\\-13,0 \u00b0C (+3,7 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 3.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.13055556,
+          72.79027778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4250.0,
+        "StatID": "4250-Nuuk",
+        "stationown": "DMI",
+        "wgs_lat": 64.18333,
+        "wgs_long": -51.73083,
+        "M\u00e5nedsmiddel": "-5,1 \u00b0C",
+        "Afvigelse": 2.6,
+        "Label": "Nuuk\\-5,1 \u00b0C (+2,6 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 3.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.73083333,
+          64.18333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4273.0,
+        "StatID": "4273-Qaqortoq Heliport*",
+        "stationown": "MITT/GRL lufthavne",
+        "wgs_lat": 60.71306,
+        "wgs_long": -46.02944,
+        "M\u00e5nedsmiddel": "-5,3 \u00b0C",
+        "Afvigelse": -0.5,
+        "Label": "Qaqortoq Heliport*\\-5,3 \u00b0C (-0,5 \u00b0C)",
+        "Retning": "Minus",
+        "placering": 5.0,
+        "afstand": 18.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.02944444,
+          60.71305556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4242.0,
+        "StatID": "4242-Sioralik",
+        "stationown": "DMI",
+        "wgs_lat": 65.01306,
+        "wgs_long": -52.52861,
+        "M\u00e5nedsmiddel": "-4,8 \u00b0C",
+        "Afvigelse": 2.8,
+        "Label": "Sioralik\\-4,8 \u00b0C (+2,8 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 5.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.52861111,
+          65.01305556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4312.0,
+        "StatID": "4312/34310-Station Nord",
+        "stationown": "DMI",
+        "wgs_lat": 81.60333,
+        "wgs_long": -16.66333,
+        "M\u00e5nedsmiddel": "-27,7 \u00b0C",
+        "Afvigelse": 0.6,
+        "Label": "Station Nord\\-27,7 \u00b0C (+0,6 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 1.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.66333333,
+          81.60333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4253.0,
+        "StatID": "4253-Ukiiviit",
+        "stationown": "DMI",
+        "wgs_lat": 62.57889,
+        "wgs_long": -50.40583,
+        "M\u00e5nedsmiddel": "-4,9 \u00b0C",
+        "Afvigelse": 1.0,
+        "Label": "Ukiiviit\\-4,9 \u00b0C (+1,0 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 3.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.40583333,
+          62.57888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4220.0,
+        "StatID": "4220-Aasiaat",
+        "stationown": "DMI",
+        "wgs_lat": 68.70806,
+        "wgs_long": -52.85167,
+        "M\u00e5nedsmiddel": "-8,5 \u00b0C",
+        "Afvigelse": 3.5,
+        "Label": "Aasiaat\\-8,5 \u00b0C (+3,5 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 3.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.85166667,
+          68.70805556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4266.0,
+        "StatID": "4266-Nunarssuit",
+        "stationown": "DMI",
+        "wgs_lat": 60.76361,
+        "wgs_long": -48.45444,
+        "M\u00e5nedsmiddel": "-3,5 \u00b0C",
+        "Afvigelse": 0.0,
+        "Label": "Nunarssuit\\-3,5 \u00b0C (0,0 \u00b0C)",
+        "Retning": "Neutral",
+        "placering": 3.0,
+        "afstand": 15.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.45444,
+          60.7636111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4351.0,
+        "StatID": "4351-Aputiteeq*",
+        "stationown": "DMI",
+        "wgs_lat": 67.78167,
+        "wgs_long": -32.28417,
+        "M\u00e5nedsmiddel": "-8,7 \u00b0C",
+        "Afvigelse": -0.4,
+        "Label": "Aputiteeq*\\-8,7 \u00b0C (-0,4 \u00b0C)",
+        "Retning": "Minus",
+        "placering": 5.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.284166,
+          67.781666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4382.0,
+        "StatID": "4382-Ikermiuarssuk",
+        "stationown": "DMI",
+        "wgs_lat": 61.93639,
+        "wgs_long": -42.06778,
+        "M\u00e5nedsmiddel": "-5,4 \u00b0C",
+        "Afvigelse": -1.0,
+        "Label": "Ikermiuarssuk\\-5,4 \u00b0C (-1,0 \u00b0C)",
+        "Retning": "Minus",
+        "placering": 2.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.067777,
+          61.93638888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4390.0,
+        "StatID": "4390-Ikerasassuaq",
+        "stationown": "DMI",
+        "wgs_lat": 60.05553,
+        "wgs_long": -43.16528,
+        "M\u00e5nedsmiddel": "-3,8 \u00b0C",
+        "Afvigelse": -0.2,
+        "Label": "Ikerasassuaq\\-3,8 \u00b0C (-0,2 \u00b0C)",
+        "Retning": "Minus",
+        "placering": 5.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.16527777,
+          60.05552777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationid_": 4419.0,
+        "StatID": "4419-Summit",
+        "stationown": "Promice",
+        "wgs_lat": 72.57295,
+        "wgs_long": -38.47029,
+        "M\u00e5nedsmiddel": "-37,1 \u00b0C",
+        "Afvigelse": 1.9,
+        "Label": "Summit\\-37,1 \u00b0C (+1,9 \u00b0C)",
+        "Retning": "Plus",
+        "placering": 1.0,
+        "afstand": 7.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.47029,
+          72.57295
+        ]
+      }
+    }
+  ]
+}
